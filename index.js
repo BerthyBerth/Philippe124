@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const fs = require('fs');
 let prefix = "?";
 
-client.login('process.env.TOKEN'); //Token du bot
+client.login('NjA2MDQyOTQyODg0MjgyMzgx.XUFTvw.rf9JDeP7bxiIpdmT5qRltqOdjW8'); //Token du bot
 
 var bot = new Discord.Client();
 
