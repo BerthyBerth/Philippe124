@@ -7,7 +7,7 @@ client.login('NjA2MDQyOTQyODg0MjgyMzgx.XUFTvw.rf9JDeP7bxiIpdmT5qRltqOdjW8'); //T
 
 var bot = new Discord.Client();
 
-bot.on("ready", function() {
+/*bot.on("ready", function() {
     bot.user.setGame("!help");
 });
 
