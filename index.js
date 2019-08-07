@@ -7,7 +7,7 @@ client.login('process.env.TOKEN'); //Token du bot
 
 var bot = new Discord.Client();
 
-/*bot.on("ready", function() {
+bot.on("ready", function() {
     bot.user.setGame("!help");
 });
 
